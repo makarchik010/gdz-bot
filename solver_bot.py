@@ -8,8 +8,7 @@ import aiohttp
 from bs4 import BeautifulSoup
 from duckduckgo_search import DDGS
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-
+TOKEN = "8622272382:AAGdyv-_B80g4fRY7zA91N5QbFuSiMiBcak"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
